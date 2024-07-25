@@ -1,3 +1,6 @@
 PRINT("HELLO WORLD")
 PRINT("HAI")
-print("new line and made by me")
+<<<<<<< HEAD
+print("new line ,most latest change and made by me")
+PRINT("I")
+
